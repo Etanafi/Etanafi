@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Etanafi
+- 👋 Hi, I’m @Etana Fikadu
 - 👀 I’m interested in machine learning area
 - 🌱 I’m currently learning PhD student
 - 💞️ I’m looking to collaborate on ...
